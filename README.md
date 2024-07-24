@@ -1,6 +1,6 @@
 # Data Analyst
 
-## [Resume 🔗](https://drive.google.com/drive/my-drive) [LinkedIn 🔗](https://www.linkedin.com/in/shreeyanamdevambre/) [GitHub 🔗](https://github.com/shreeyaambre219)|
+## [Resume 🔗](https://drive.google.com/drive/my-drive) [LinkedIn 🔗](https://www.linkedin.com/in/shreeyanamdevambre/) [GitHub 🔗](https://github.com/shreeyaambre219)
 
 Passionate and results-driven analytics professional with a strong background in data science, business analysis, and marketing. Currently pursuing a Master's in Analytics at Northeastern University, I have a solid foundation in data management, big data, and advanced analytics techniques. Proven ability to drive business growth through data-driven insights and innovative problem-solving. With a commitment to continuous learning, I stay abreast of the latest advancements in analytics and data visualization methodologies. I am enthusiastic about collaborating with cross-functional teams to leverage data as a strategic asset and create compelling visual narratives that inspire action and foster a data-driven culture.
 
