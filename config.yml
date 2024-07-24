@@ -1,5 +1,9 @@
 title: Shreeya Ambre
 logo: /assests/img/headshot_circle.png
-description: text below image
-show_downloads: true
+address: Boston, MA 02120
+contact: (857) 396-6403
+mail1: shreeyaambre@outlook.com 
+mail2: ambre.s@northeastern.edu 
+#description: Data Analyst
+show_downloads: false
 theme: jekyll-theme-minimal
