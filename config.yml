@@ -5,5 +5,5 @@ contact: (857) 396-6403
 mail1: shreeyaambre@outlook.com 
 mail2: ambre.s@northeastern.edu 
 #description: Data Analyst
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
